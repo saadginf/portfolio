@@ -17,7 +17,7 @@ import {
 import { SiMinutemailer } from "react-icons/si";
 const Sidebar = () => {
   const handleEmailMe = () => {
-    window.open("mailto:codesumax@gmail.com");
+    window.open("mailto:itwolves1@gmail.com");
   };
   const sidebar_variant = {
     hidden: {
